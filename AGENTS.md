@@ -8,6 +8,10 @@ Issues live in Linear: Victor's Personal team (`VL`), project Omapad. See `docs/
 
 Canonical triage labels: `needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, `wontfix`. See `docs/agents/triage-labels.md`.
 
+### Domain docs
+
+Single-context: one `CONTEXT.md` at the repo root, ADRs under `docs/adr/`. See `docs/agents/domain.md`.
+
 ### Internal skills
 
 `/forge`, `/stamp`, `/smash`, `/initiative`, and `/improve` read this repo's tracker.
